@@ -1,0 +1,37 @@
+#documentjs{
+    background-color: #ccc;
+    height: 100%;
+    overflow-y: hidden;
+    text-align: center;
+    width: 100%;
+}
+
+#documents{
+    height: 100%;
+    overflow-y: auto;
+    width: 100%;
+}
+
+#document{
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 816px;
+}
+
+#tools{
+    background-color: #eee;
+    height: 50px;
+    width: 100%;
+    position: relative;
+}
+
+.sheet{
+    background-color: #fff;
+    box-shadow: 0 0 12px #000;
+    display: inline-block;
+    margin: auto;
+    margin-bottom: 30px;
+    height: 1056px;
+    width: 816px;
+}
